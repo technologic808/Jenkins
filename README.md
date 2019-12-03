@@ -21,5 +21,3 @@
 ### Jenkins URL: http://192.168.xxx.xxx:8080/
 
 ### Install suggested plugins
-### Continue as admin
-### Save and Finish
