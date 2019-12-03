@@ -1,5 +1,8 @@
 # Jenkins
-Install and Configure Jenkins on Ubuntu Xenial 
+
+#### Resources to install and configure Jenkins on Ubuntu Xenial 
+
+#### Run the following shell scripts in sudo mode 
 
 ## Shell Scripts
 
@@ -7,14 +10,7 @@ Install and Configure Jenkins on Ubuntu Xenial
 
 [Change Default Port](https://github.com/technologic808/Jenkins/blob/master/changeport.sh).
 
-
-### Install OpenJDK 8 
-
-### Install Git
-
-### Install Jenkins
-
-### Configure Jenkins 
+### Set Jenkins to run on boot (optional) 
 
     systemctl enable jenkins
     
