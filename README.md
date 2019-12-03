@@ -26,11 +26,8 @@ Install and Configure Jenkins on Ubuntu Xenial
     sleep 5s
     cat /var/lib/jenkins/secrets/initialAdminPassword
 
-### Go to http://192.168.xxx.xxx:8080/
-### Enter secret as the password
-### Install suggested plugins
 ### Jenkins URL: http://192.168.xxx.xxx:8080/
+### Enter the final output line of the shell script as the initial password for jenkins
+### Install suggested plugins
 ### Continue as admin
 ### Save and Finish
-### Manage Jenkins > Manage Users > Change Password to admin
-
