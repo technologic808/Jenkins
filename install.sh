@@ -8,5 +8,3 @@ sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.l
 apt update -y
 apt install -y jenkins
 systemctl start jenkins
-sleep 5s
-cat /var/lib/jenkins/secrets/initialAdminPassword
