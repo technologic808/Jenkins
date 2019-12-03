@@ -1,6 +1,13 @@
 # Jenkins
 Install and Configure Jenkins on Ubuntu Xenial 
 
+## Shell Scripts
+
+[Install Jenkins](https://github.com/technologic808/Jenkins/blob/master/install.sh).
+
+[Change Default Port](https://github.com/technologic808/Jenkins/blob/master/changeport.sh).
+
+
 ### Install OpenJDK 8 
 
     apt update -y
