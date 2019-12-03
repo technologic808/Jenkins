@@ -2,7 +2,7 @@
 
 #### Resources to install and configure Jenkins on Ubuntu Xenial 
 
-#### Run the following shell scripts in sudo mode 
+#### Run the following shell scripts in `sudo` mode 
 
 ## Shell Scripts
 
